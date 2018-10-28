@@ -31,7 +31,6 @@ def QuickSort(a,start ,end):
     QuickSort(a, p+1,end) #recursive sort 2nd part
 
 
-
 def QuickSortLastElement(a,start ,end):
     if  len(a[start:end]) <=1:
         return
