@@ -44,6 +44,5 @@ array=[]
 for i in range(0, 100000):
     array.append(f.readline().strip())
 
-
-print("-----------------")
-print(Sort_and_Count(array))
+a, count= Sort_and_Count(array)
+print(count)
