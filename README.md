@@ -8,3 +8,6 @@ implementing different algorithms
 -Random Selection
 ***********
 *Part 2
+***********
+-Strongly Connected Components (graphs)
+
