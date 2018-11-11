@@ -10,4 +10,5 @@ implementing different algorithms
 *Part 2
 ***********
 -Strongly Connected Components (graphs)
+-Dijkstra Shortest Path
 
