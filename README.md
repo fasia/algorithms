@@ -16,3 +16,8 @@ implementing different algorithms
 
 -Dijkstra Shortest Path
 
+-Median maintainance- (Heap sort)
+
+-2-Sum - (Hash table)
+
+
